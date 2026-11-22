@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "裁剪 PDF",
+  "name": "PDF 页面裁剪工具",
   "version": "1.0.0",
   "description": "轻量、离线的 PDF 页面裁剪扩展。裁剪改变的是显示范围，原始内容还在。",
   "action": {
