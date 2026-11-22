@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "裁剪 PDF",
+  "version": "1.0.0",
+  "description": "轻量、离线的 PDF 页面裁剪扩展。裁剪改变的是显示范围，原始内容还在。",
+  "action": {
+    "default_title": "打开 PDF 裁剪工具",
+    "default_icon": {"16": "icons/16.png", "32": "icons/32.png"}
+  },
+  "icons": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"},
+  "background": {"service_worker": "background.js"}
+}

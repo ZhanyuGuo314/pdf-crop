@@ -1,0 +1,44 @@
+/* Bootstrap Icons 1.13.1 · https://icons.getbootstrap.com/
+The MIT License (MIT)
+
+Copyright (c) 2019-2024 The Bootstrap Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+*/
+@font-face {
+  font-family: "Crop Icons";
+  src: url("data:font/woff;base64,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") format("woff");
+}
+.icon {
+  display: inline-flex; flex: none; width: 1em; height: 1em;
+  font: normal 16px/1 "Crop Icons"; align-items: center; justify-content: center;
+  -webkit-font-smoothing: antialiased; pointer-events: none;
+}
+.icon-folder::before { content: "\f3d8"; }
+.icon-crop::before { content: "\f2dd"; }
+.icon-auto::before { content: "\f1b6"; }
+.icon-settings::before { content: "\f56b"; }
+.icon-save::before { content: "\f30a"; }
+.icon-back::before { content: "\f284"; }
+.icon-forward::before { content: "\f285"; }
+.icon-close::before { content: "\f659"; }
+.icon-undo::before { content: "\f117"; }
+.icon-redo::before { content: "\f116"; }
+.icon-file::before { content: "\f38b"; }
